@@ -1,0 +1,64 @@
+.total-background{
+    background-color: black;
+    
+    padding: 25px;
+}
+.head-sty{
+    font-family: serif;
+    color: coral;
+    padding-top: 40px;
+    font-size: 70px;
+}
+.para-sty{
+    color: white;
+    font-size: 25px;
+}
+.icons-sty{
+    font-size: 18px;
+    color: lightgrey;
+    padding: 5px;
+}
+.horizon-line{
+    background-color: black;
+    padding: 20px;
+}
+.img-sty{
+    width: 15vw;
+    border-radius: 100px;
+    padding: 10px;
+    height: 30vh;
+    
+}
+.img-card{
+    margin-top: 50px;
+    text-align: center;
+}
+.sec-part{
+    padding: 25px;
+}
+.education-heading{
+    font-size: 22px;
+    padding-top: 30px;
+    font-weight: bold;
+}
+.edu-para{
+    font-size: 20px;
+    color: grey;
+    padding-top: 10px;
+}
+.main-head{
+    color: black;
+    font-size: 45px;
+    font-weight: bold;
+}
+.ic-sty{
+    font-size: 50px;
+    padding-right: 15px;
+}
+.icons-card{
+    padding-top: 30px;
+}
+.para{
+    font-size: 18px;
+    color: lightgrey;
+}
